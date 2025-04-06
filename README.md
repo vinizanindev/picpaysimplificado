@@ -2,6 +2,8 @@
 
 Este projeto é uma API RESTful que simula um sistema de transferências entre usuários, inspirada no funcionamento de plataformas como o PicPay. Ele foi desenvolvido como parte de um desafio técnico para avaliação de conhecimentos em back-end.
 
+> ⚠️ **Importante:** Este projeto foi criado **apenas para fins de estudo e prática pessoal**, com base no desafio proposto pela PicPay. **Não foi submetido ao processo seletivo** e não representa uma tentativa de participação ou avaliação oficial.
+
 ## 🚀 Tecnologias utilizadas
 
 - Java 17
